@@ -1,33 +1,52 @@
-- ## Backend for Frontend Ejemplo
+## Backend for Frontend Example
 
-Este proyecto Backend for Frontend (BFF) proporciona una interfaz específica para la aplicación cliente, facilitando la comunicación entre el frontend y los servicios subyacentes. Se enfoca en brindar una capa intermedia que optimiza las solicitudes y respuestas para las necesidades particulares del frontend.
-### Video de Instagram
+This Backend for Frontend (BFF) project provides a specific interface for the client application, facilitating communication between the frontend and underlying services. It focuses on providing an intermediary layer that optimizes requests and responses for the particular needs of the frontend.
 
-Puedes ver una demostración de este proyecto en acción en el siguiente video de Instagram: [Ver video](https://www.instagram.com/p/CyqQsPEuyuD/)
+### Instagram Video
 
-### Tecnologías Utilizadas
+You can watch a demo of this project in action in the following Instagram video: [Watch video](https://www.instagram.com/p/CyqQsPEuyuD/)
 
-Este proyecto está construido utilizando Next.js, un framework de React que permite renderizado del lado del servidor y otras características avanzadas para aplicaciones web.
+### Technologies
 
-### Configuración del Proyecto 
-1. **Clonar el Repositorio:** 
+This project is built using Next.js, a React framework that enables server-side rendering and other advanced features for web applications.
+
+### Project Setup 
+1. **Clone the Repository:** 
 
 ```bash
-git clone <url_del_repositorio>
+git clone <repository_url>
 ``` 
-2. **Instalar Dependencias:** 
+2. **Install Dependencies:** 
 
 ```bash
 cd backend-for-frontend
 npm install
-``` 
-3. **Configuración de Variables de Entorno:** 
-Copia el archivo `.env.example` a `.env` y proporciona los valores adecuados para las variables de entorno. 
-4. **Iniciar el Servidor de Desarrollo:** 
+```
+3. **Environment Variable Configuration:** 
+   Copy the `.env.example` file to `.env` and provide appropriate values for the environment variables. 
+4. **Start Development Server:** 
 
 ```arduino
 npm run dev
 ```
-### Licencia
 
-Este proyecto está bajo la Licencia [MIT]() .---
+## Feedback
+
+We are open to feedback! Feel free to open an Issue.
+
+Please, if you wish to help developing these or other open source tools let us know via our social media:
+
+- [Twitter](twitter.com/frontend_army)
+- [Discord](https://t.co/Y46bYpwExU)
+
+## License
+
+Copyright 2024 Frontend Army
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
